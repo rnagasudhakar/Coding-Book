@@ -30,6 +30,8 @@ void fast()
 	cin.tie(NULL);
 	cout.tie(NULL);
 }
+The template is very nice
+
 //----------------------------------------FUNCTIONS-------------------------------------
 const ll N = (ll)(1 * 1e7 + 5);
 const ll LOGN = 25;
